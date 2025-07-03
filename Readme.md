@@ -34,7 +34,7 @@ This Jupyter notebook demonstrates how to build a simple machine learning model 
 
    *(Your actual results may vary)*
 
-   ![Confusion Matrix](confusion_matrix.png)
+   ![Confusion Matrix](output.png)
 
 8. 🧮 **Calculate Precision & Recall**  
    Prints out the precision and recall metrics for the model.
