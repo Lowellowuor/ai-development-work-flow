@@ -20,7 +20,7 @@ This Jupyter notebook demonstrates how to build a simple machine learning model 
    Trains a `GradientBoostingClassifier` on the training data.
 
 6. 🔮 **Predict**  
-   Uses the trained model to predict readmission on the test set.
+   Uses the trained model to predict readmission on  test set.
 
 7. 📊 **Evaluate with Confusion Matrix**  
    Computes and displays the confusion matrix for model evaluation.
@@ -51,7 +51,7 @@ This Jupyter notebook demonstrates how to build a simple machine learning model 
 ## 🚀 How to Run
 
 1. Open the notebook in Jupyter or Google Colab.
-2. Run each cell in order.
+2. Run each cell in the order.
 3. Review the outputs and confusion matrix plot.
 
 ---
