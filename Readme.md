@@ -41,7 +41,7 @@ This Jupyter notebook demonstrates how to build a simple machine learning model 
 
 ---
 
-## 📈 Results
+ ## 📈 Results
 
 - **Precision:** 0.17  
 - **Recall:** 0.11  
